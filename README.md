@@ -3,7 +3,7 @@ With the help of tableau i have tried to visualize the model of titanic. and thu
 The data is collected from kaggle.
 https://www.kaggle.com/c/titanic
 
-#Visualization from tableau-
+# Visualization from tableau-
 ![1](https://user-images.githubusercontent.com/34620833/48178650-d40f8880-e340-11e8-97ed-ee90aeae7de2.PNG)
 
 ![2](https://user-images.githubusercontent.com/34620833/48178651-d4a81f00-e340-11e8-8ddb-11df966e832a.PNG)
